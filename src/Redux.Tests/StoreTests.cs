@@ -1,10 +1,7 @@
-﻿using NUnit.Core;
-using NUnit.Framework;
-using Redux.Reactive;
-using System;
+﻿using System;
 using System.Linq;
-using System.Reactive.Linq;
 using System.Threading.Tasks;
+using NUnit.Framework;
 
 namespace Redux.Tests
 {
