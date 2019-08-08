@@ -2,11 +2,11 @@
 <package >
   <metadata>
     <id>Redux.NET</id>
-    <version>$version$</version>
+    <version>3.0.0</version>
     <title>Redux.NET</title>
     <authors>Guillaume Salles, Albert Li</authors>
     <owners>Guillaume Salles, Albert Li</owners>
-    <projectUrl>https://github.com/systembugtj/redux.NET</projectUrl>
+    <projectUrl>https://github.com/systembugtj/Redux.NET</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Redux.NET is a predictable state container for .NET apps. Inspired by https://github.com/reactjs/redux.</description>
     <releaseNotes></releaseNotes>
@@ -17,6 +17,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="..\Redux\bin\$configuration$\$targetframework$\Redux.dll" target="lib\netstandard2.0" />
+    <file src="..\src\Redux\bin\Release\netstandard2.0\Redux.dll" target="lib\netstandard2.0\Redux.NET.dll" />
   </files>
 </package>
