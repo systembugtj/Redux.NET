@@ -20,7 +20,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <ReleaseVersion>3.0.1</ReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -213,10 +212,6 @@
     <ProjectReference Include="..\Redux.TodoMvc.Forms\Redux.TodoMvc.Forms.csproj">
       <Project>{ce4acdb1-5ccd-4d09-b854-23c4019a9a91}</Project>
       <Name>Redux.TodoMvc.Forms</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Redux\Redux.csproj">
-      <Project>{A15D3F17-691F-48DF-9078-27DCDE7141EB}</Project>
-      <Name>Redux</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
