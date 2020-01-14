@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Redux.NET</id>
-    <version>3.0.1</version>
+    <version>3.0.2</version>
     <title>Redux.NET</title>
     <authors>Guillaume Salles, Albert Li</authors>
     <owners>Guillaume Salles, Albert Li</owners>
@@ -13,7 +13,7 @@
     <copyright></copyright>
     <tags>Redux Redux.NET</tags>
     <dependencies>
-      <dependency id="System.Reactive" version="4.1.6" />
+      <dependency id="System.Reactive" version="4.3.2" />
     </dependencies>
   </metadata>
   <files>

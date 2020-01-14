@@ -44,8 +44,8 @@ namespace Redux.TodoMvc.Android
 		public partial class Drawable
 		{
 			
-			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			// aapt resource value: 0x7F010000
+			public const int Icon = 2130771968;
 			
 			static Drawable()
 			{
@@ -60,50 +60,50 @@ namespace Redux.TodoMvc.Android
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f05000a
-			public const int RemoveButton = 2131034122;
+			// aapt resource value: 0x7F020001
+			public const int activeRadioButton = 2130837505;
 			
-			// aapt resource value: 0x7f050003
-			public const int activeRadioButton = 2131034115;
+			// aapt resource value: 0x7F020002
+			public const int allRadioButton = 2130837506;
 			
-			// aapt resource value: 0x7f050002
-			public const int allRadioButton = 2131034114;
+			// aapt resource value: 0x7F020003
+			public const int checkbox = 2130837507;
 			
-			// aapt resource value: 0x7f050008
-			public const int checkbox = 2131034120;
+			// aapt resource value: 0x7F020004
+			public const int clearCompletedButton = 2130837508;
 			
-			// aapt resource value: 0x7f050005
-			public const int clearCompletedButton = 2131034117;
+			// aapt resource value: 0x7F020005
+			public const int completedRadioButton = 2130837509;
 			
-			// aapt resource value: 0x7f050004
-			public const int completedRadioButton = 2131034116;
+			// aapt resource value: 0x7F020006
+			public const int editTextId = 2130837510;
 			
-			// aapt resource value: 0x7f050007
-			public const int editTextId = 2131034119;
+			// aapt resource value: 0x7F020007
+			public const int listView1 = 2130837511;
 			
-			// aapt resource value: 0x7f05000e
-			public const int listView1 = 2131034126;
+			// aapt resource value: 0x7F020008
+			public const int main_footer = 2130837512;
 			
-			// aapt resource value: 0x7f05000d
-			public const int main_footer = 2131034125;
+			// aapt resource value: 0x7F020009
+			public const int main_header = 2130837513;
 			
-			// aapt resource value: 0x7f05000b
-			public const int main_header = 2131034123;
+			// aapt resource value: 0x7F02000A
+			public const int main_mainsection = 2130837514;
 			
-			// aapt resource value: 0x7f05000c
-			public const int main_mainsection = 2131034124;
+			// aapt resource value: 0x7F02000B
+			public const int numberOfTodosRemaining = 2130837515;
 			
-			// aapt resource value: 0x7f050000
-			public const int numberOfTodosRemaining = 2131034112;
+			// aapt resource value: 0x7F02000C
+			public const int radioGroup = 2130837516;
 			
-			// aapt resource value: 0x7f050001
-			public const int radioGroup = 2131034113;
+			// aapt resource value: 0x7F020000
+			public const int RemoveButton = 2130837504;
 			
-			// aapt resource value: 0x7f050006
-			public const int selectAllTodosCheckBox = 2131034118;
+			// aapt resource value: 0x7F02000D
+			public const int selectAllTodosCheckBox = 2130837517;
 			
-			// aapt resource value: 0x7f050009
-			public const int todoTextItem = 2131034121;
+			// aapt resource value: 0x7F02000E
+			public const int todoTextItem = 2130837518;
 			
 			static Id()
 			{
@@ -118,19 +118,19 @@ namespace Redux.TodoMvc.Android
 		public partial class Layout
 		{
 			
-			// aapt resource value: 0x7f030000
+			// aapt resource value: 0x7F030000
 			public const int Footer = 2130903040;
 			
-			// aapt resource value: 0x7f030001
+			// aapt resource value: 0x7F030001
 			public const int Header = 2130903041;
 			
-			// aapt resource value: 0x7f030002
+			// aapt resource value: 0x7F030002
 			public const int ListViewItem = 2130903042;
 			
-			// aapt resource value: 0x7f030003
+			// aapt resource value: 0x7F030003
 			public const int Main = 2130903043;
 			
-			// aapt resource value: 0x7f030004
+			// aapt resource value: 0x7F030004
 			public const int MainSection = 2130903044;
 			
 			static Layout()
@@ -146,11 +146,11 @@ namespace Redux.TodoMvc.Android
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
+			// aapt resource value: 0x7F040000
+			public const int ApplicationName = 2130968576;
 			
-			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			// aapt resource value: 0x7F040001
+			public const int Hello = 2130968577;
 			
 			static String()
 			{
