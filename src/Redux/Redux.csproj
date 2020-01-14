@@ -5,6 +5,6 @@
     <ReleaseVersion>3.0.1</ReleaseVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="System.Reactive" Version="4.1.6" />
+    <PackageReference Include="System.Reactive" Version="4.3.2" />
   </ItemGroup>
 </Project>
